@@ -46,6 +46,14 @@ nav ul li a{
    font-weight: bold;
    color: #2d2a2a;
 }
-
+div{
+   width: 30%;
+   background-color: rgba(121, 145, 133, 0.877);
+   align-items: center;
+   margin: 200px 450px;
+   height: 30vh;
+   padding: 20px 50px;
+   box-shadow: 2px 2px 12px rgba(170, 9, 9, 0.877);
+}
 
 
